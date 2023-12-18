@@ -1,0 +1,86 @@
+Test,Dataset,Variable,Version,Response Time (s)
+area,giops_day,magwatervel,3.10.5,4.188875229357798
+area,giops_day,magwatervel,3.12.0,4.584999
+area,giops_day,psubsurfacechannel,3.10.5,4.495475229357798
+area,giops_day,sspeed,3.10.5,4.317249541284403
+area,giops_day,sspeed,3.12.0,4.696009
+area,giops_day,vosaline,3.10.5,4.263139449541284
+area,giops_day,vosaline,3.12.0,4.610045
+area,giops_day,votemper,3.10.5,4.331811926605504
+area,giops_day,votemper,3.12.0,4.670288
+area,riops_fc_3dps,magwatervel,3.10.5,7.885578899082569
+area,riops_fc_3dps,magwatervel,3.12.0,8.08717
+area,riops_fc_3dps,sspeed,3.10.5,8.843516513761468
+area,riops_fc_3dps,sspeed,3.12.0,8.906869
+area,riops_fc_3dps,vosaline,3.10.5,8.375993577981651
+area,riops_fc_3dps,vosaline,3.12.0,8.478356999999999
+area,riops_fc_3dps,votemper,3.10.5,8.429037614678899
+area,riops_fc_3dps,votemper,3.12.0,8.540799
+hovmoller,giops_day,magwatervel,3.10.5,7.91844128440367
+hovmoller,giops_day,magwatervel,3.12.0,7.824219
+hovmoller,giops_day,sspeed,3.10.5,7.4249431192660555
+hovmoller,giops_day,sspeed,3.12.0,7.275828000000001
+hovmoller,giops_day,vosaline,3.10.5,6.809165137614679
+hovmoller,giops_day,vosaline,3.12.0,6.689432
+hovmoller,giops_day,votemper,3.10.5,6.829629357798166
+hovmoller,giops_day,votemper,3.12.0,6.746849999999999
+hovmoller,riops_fc_3dps,magwatervel,3.10.5,17.119891743119265
+hovmoller,riops_fc_3dps,magwatervel,3.12.0,16.347684
+hovmoller,riops_fc_3dps,sspeed,3.10.5,15.212515596330274
+hovmoller,riops_fc_3dps,sspeed,3.12.0,14.261155
+hovmoller,riops_fc_3dps,vosaline,3.10.5,10.825434862385322
+hovmoller,riops_fc_3dps,vosaline,3.12.0,10.254632999999998
+hovmoller,riops_fc_3dps,votemper,3.10.5,10.951413761467888
+hovmoller,riops_fc_3dps,votemper,3.12.0,10.328103
+profile,giops_day,magwatervel,3.10.5,2.0022229357798165
+profile,giops_day,magwatervel,3.12.0,1.9758850000000001
+profile,giops_day,sspeed,3.10.5,1.81641376146789
+profile,giops_day,sspeed,3.12.0,1.7906540000000002
+profile,giops_day,vosaline,3.10.5,1.6715889908256882
+profile,giops_day,vosaline,3.12.0,1.56018
+profile,giops_day,votemper,3.10.5,1.674591743119266
+profile,giops_day,votemper,3.12.0,1.642013
+profile,riops_fc_3dps,magwatervel,3.10.5,3.5800825688073394
+profile,riops_fc_3dps,magwatervel,3.12.0,3.528029
+profile,riops_fc_3dps,sspeed,3.10.5,3.321805504587156
+profile,riops_fc_3dps,sspeed,3.12.0,3.196711
+profile,riops_fc_3dps,vosaline,3.10.5,2.576523853211009
+profile,riops_fc_3dps,vosaline,3.12.0,2.42936
+profile,riops_fc_3dps,votemper,3.10.5,2.6335752293577985
+profile,riops_fc_3dps,votemper,3.12.0,2.446176
+subset,giops_day,votemper,3.10.5,0.7750697247706423
+subset,giops_day,votemper,3.12.0,0.7579940000000001
+subset,riops_fc_3dps,votemper,3.10.5,2.0246394495412843
+subset,riops_fc_3dps,votemper,3.12.0,1.974758
+transect,giops_day,magwatervel,3.10.5,9.29451376146789
+transect,giops_day,magwatervel,3.12.0,8.935188
+transect,giops_day,sspeed,3.10.5,9.346065137614678
+transect,giops_day,sspeed,3.12.0,8.768673999999999
+transect,giops_day,vosaline,3.10.5,9.220101834862385
+transect,giops_day,vosaline,3.12.0,8.570939
+transect,giops_day,votemper,3.10.5,9.886187155963302
+transect,giops_day,votemper,3.12.0,8.982878
+transect,riops_fc_3dps,magwatervel,3.10.5,12.143867889908256
+transect,riops_fc_3dps,magwatervel,3.12.0,11.768841
+transect,riops_fc_3dps,sspeed,3.10.5,11.916716513761468
+transect,riops_fc_3dps,sspeed,3.12.0,11.551044
+transect,riops_fc_3dps,vosaline,3.10.5,10.495487155963303
+transect,riops_fc_3dps,vosaline,3.12.0,10.094095
+transect,riops_fc_3dps,votemper,3.10.5,10.655442201834862
+transect,riops_fc_3dps,votemper,3.12.0,10.138472
+virtual mooring,giops_day,magwatervel,3.10.5,3.1942477064220185
+virtual mooring,giops_day,magwatervel,3.12.0,3.2562569999999997
+virtual mooring,giops_day,sspeed,3.10.5,2.219759633027523
+virtual mooring,giops_day,sspeed,3.12.0,2.287287
+virtual mooring,giops_day,vosaline,3.10.5,1.6965844036697246
+virtual mooring,giops_day,vosaline,3.12.0,1.729907
+virtual mooring,giops_day,votemper,3.10.5,1.7432467889908259
+virtual mooring,giops_day,votemper,3.12.0,1.742614
+virtual mooring,riops_fc_3dps,magwatervel,3.10.5,11.27114128440367
+virtual mooring,riops_fc_3dps,magwatervel,3.12.0,10.523353
+virtual mooring,riops_fc_3dps,sspeed,3.10.5,8.69671009174312
+virtual mooring,riops_fc_3dps,sspeed,3.12.0,8.011641
+virtual mooring,riops_fc_3dps,vosaline,3.10.5,4.835592660550459
+virtual mooring,riops_fc_3dps,vosaline,3.12.0,4.506268
+virtual mooring,riops_fc_3dps,votemper,3.10.5,5.196944036697248
+virtual mooring,riops_fc_3dps,votemper,3.12.0,4.6864
