@@ -1,4 +1,4 @@
-,Version,Test,Dataset,Variable,Response Time (s)
+,Version,Test,Dataset,Variable,ResponseTime
 0,3.10.5,profile,giops_day,votemper,1.6508
 1,3.10.5,profile,giops_day,vosaline,2.0018
 2,3.10.5,profile,giops_day,sspeed,1.7869
